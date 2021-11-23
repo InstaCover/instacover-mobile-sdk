@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "InstaCover",
+        "repositoryURL": "https://github.com/InstaCover/instacover-mobile-sdk",
+        "state": {
+          "branch": null,
+          "revision": "fb7c72eac475fad71b9d6a0612c54cedc6a4bcd3",
+          "version": "1.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
