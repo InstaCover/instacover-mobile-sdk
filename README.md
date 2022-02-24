@@ -2,11 +2,15 @@
 
 ## Android
 
+add repository
+
 ```kotlin
 maven {
-            url = uri("https://storage.googleapis.com/instacover-maven/")
-        }
+    url = uri("https://storage.googleapis.com/instacover-maven/")
+}
 ```
+
+add dependency
 
 ```kotlin
 implementation("ai.instacover:InstaCover:<VERSION>")
