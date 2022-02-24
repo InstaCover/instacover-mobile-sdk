@@ -1,0 +1,6 @@
+framework module InstaCover {
+    umbrella header "InstaCover.h"
+
+    export *
+    module * { export * }
+}
