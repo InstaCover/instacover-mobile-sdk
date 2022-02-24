@@ -15,9 +15,7 @@
 	</dict>
 	<key>WKAppBoundDomains</key>
 	<array>
-		<string>instacar.staging.instaclaim.ai</string>
-		<string>falsecz.eu.ngrok.io</string>
-		<string>www.leasingrechnen.at</string>
+		<string>instacar.instaclaim.ai</string>
 	</array>
 </dict>
 </plist>
