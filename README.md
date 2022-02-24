@@ -4,8 +4,8 @@
 
 Replace sessionIds with newly generated ids from api `/instacar/v2.0/session/create`
 
-- ios-demo/Shared/DemoApp.swift#L14
-- android-demo/devapp/src/main/java/ai/instacover/instacar/devapp/MainActivity.kt#L45
+- [ios-demo/Shared/DemoApp.swift](ios-demo/Shared/DemoApp.swift#L14)
+- [android-demo/devapp/src/main/java/ai/instacover/instacar/devapp/MainActivity.kt](android-demo/devapp/src/main/java/ai/instacover/instacar/devapp/MainActivity.kt#L45)
 
 ## Android
 
