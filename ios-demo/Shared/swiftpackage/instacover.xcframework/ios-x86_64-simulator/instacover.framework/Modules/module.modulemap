@@ -1,6 +1,0 @@
-framework module instacover {
-    umbrella header "instacover.h"
-
-    export *
-    module * { export * }
-}
