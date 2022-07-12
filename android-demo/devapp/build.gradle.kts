@@ -49,6 +49,6 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.4.0")
     implementation("androidx.fragment:fragment-ktx:1.2.5")
     /// >>>>>>>
-    implementation("ai.instacover:InstaCover:1.0.6")
-    //    implementation(project(":InstaCover"))
+    implementation("ai.instacover:InstaCover-android:1.1.0")
+    
 }

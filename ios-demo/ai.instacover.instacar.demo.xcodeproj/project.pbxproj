@@ -390,7 +390,7 @@
 			repositoryURL = "https://github.com/InstaCover/instacover-mobile-sdk";
 			requirement = {
 				kind = exactVersion;
-				version = 1.0.6;
+				version = 1.1.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
